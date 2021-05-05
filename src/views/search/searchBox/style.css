@@ -1,0 +1,12 @@
+.search-box{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;    
+}
+
+.search-box-butons{
+    display: flex;
+    flex-direction: row;
+}
